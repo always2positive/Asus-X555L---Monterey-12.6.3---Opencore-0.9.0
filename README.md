@@ -14,8 +14,7 @@ This is my hardware:
                OMMM0,            Host: Hackintosh (SMBIOS: MacBookAir7,1) 
     kMMMMMMMMMMMMMMMMMMMMMMd     CPU: Intel i3-5020U (4) @ 2.20GHz 
      ;KMMMMMMMWXXWMMMMMMMk.      GPU: Intel HD Graphics 5500 
-       .cooc,.    .,coo:.        Memory: 6753MiB / 12288MiB 
-                                 Audio : ALC233/ALC3236
+       .cooc,.    .,coo:.        Audio : ALC233/ALC3236
                                  Wifi : Atheros 9485
                                  
  What it's working:
