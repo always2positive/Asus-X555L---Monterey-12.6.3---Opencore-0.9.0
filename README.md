@@ -1,7 +1,7 @@
 # Asus-X555L---Big-Sur---Opencore
 
 
-For educational purposes only, I am sharing my Hackingtosh EFI of a 98% working MacOs Big Sur on my old friend Asus X555L
+For educational purposes only, I am sharing my Hackingtosh EFI of a 100% working MacOs Big Sur on my old friend Asus X555L
 
 
 I have followed Dortania's intallation guide, some things were "easy" and some took me weeks to figure out, and got a 98% functional hack.
