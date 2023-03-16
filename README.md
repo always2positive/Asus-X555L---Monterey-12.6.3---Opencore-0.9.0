@@ -12,12 +12,10 @@ This is my hardware:
 - Motherboard : Asus X555L
 - CPU : Intel® Core™ i3 - 5020U (4) @ 2.20GHz 
 - iGPU : Intel HD Graphics 5500
-- RAM : 1x 8 GB DDR4   1x4 GB DDR4 
+- RAM : 1x 8 GB DDR3-1600 SODIMM  1x4 GB DDR3-1600 SODIMM
 - Audio Codec :  ALC233/ALC3236
 - WiFi /BT : Intel AC7260
-- TrackPad : Synaptics SYNA2B46 I2C Interface
-- USB Chipset : Intel 300 Series Chipset
-- Display: Built-In IPS 15.6”
+- Display: Built-In 15.6”
 - Resolution : 1366px x 768px
 - Storage : 1x SSD KINGSTON 250GB
 - Bootloader : OpenCore 0.9.0
@@ -28,6 +26,6 @@ This is my hardware:
  
  Everything!!! but pretty sure battery support can be improved, its a little buggy at the moment.
  
- Just generate your own SMBios and copy the content of this repo in a USB - Hope to help someone out there and save you some pain.
+ Just generate your own SMBios, create the USB installer and copy the EFI content of this repo in a USB - Hope to help someone out there and save you some pain.
  
  Cheers!
