@@ -1,7 +1,7 @@
 # Asus-X555L---Monterey 12.6.3---Opencore 0.9.0
 
 
-For educational purposes only, I am sharing my Hackingtosh EFI of a 100% working MacOs Monterey on my old friend Asus X555L
+For educational purposes only, I am sharing my Hackintosh EFI of a 100% working MacOs Monterey on my old friend Asus X555L
 
 
 I have followed Dortania's intallation guide, some things were "easy" and some took me weeks to figure out, and got a 100% functional hack.
